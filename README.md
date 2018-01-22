@@ -1,5 +1,5 @@
 # lanproxy-docker
-Docker file for lanproxy.
+Docker file for [lanproxy](https://github.com/ffay/lanproxy).
 
 1. Install docker
 2. Modify config in proxy-server-20171116/conf/config.properties
