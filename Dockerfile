@@ -20,5 +20,8 @@ RUN yum update -y \
 WORKDIR /usr/local/proxy-server/bin
 
 EXPOSE 8090
+EXPOSE 4900
+EXPOSE 4993
+EXPOSE 50000-50999
 
 CMD ["bash", "startup.sh"]
