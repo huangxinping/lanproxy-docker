@@ -1,5 +1,5 @@
-# lanproxy-docker
-Docker container for [lanproxy](https://github.com/ffay/lanproxy). 
+# lanproxy代理服务端Docker容器
+[lanproxy](https://github.com/ffay/lanproxy)的Docker容器化 
 [英文版说明](https://github.com/huangxinping/lanproxy-docker/blob/master/README.md)
 
 1. 安装[docker](https://www.docker.com)
